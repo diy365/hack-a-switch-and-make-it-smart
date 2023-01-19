@@ -1,7 +1,9 @@
 # How to hack a switch on electronic devices and make it smart
-Many electronic devices we use everyday, like remote controls and coffee machines, have push buttons. In many cases these buttons are _normally-open_ switches connecting the circuit to ground (GND) as shown in the figure below.
+Many electronic devices we use everyday, like remote controls or coffee machines, have push buttons. In many cases these buttons are _normally-open_ switches connecting the circuit to ground (GND) as shown in the figure below.
 
 <img src="res/hack-switch-img1.png" alt="drawing" width="400"/>
 
 ## Hack and make it smart
-jdlalfl
+Use just a common NPN transistor, like the 2N2222, to hack the switch and make it ready to be connected to a MCU's GPIO.
+
+<img src="res/hack-switch-img2.png" alt="drawing" width="400"/>
