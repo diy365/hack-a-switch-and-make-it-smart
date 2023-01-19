@@ -6,4 +6,4 @@ Many electronic devices we use everyday, like remote controls or coffee machines
 ## Hack and make it smart
 Use just a common NPN transistor, like the 2N2222, to hack the switch and make it ready to be connected to a MCU's GPIO.
 
-<img src="res/hack-switch-img2.png" alt="drawing" width="400"/>
+<img src="res/hack-switch-img2.png" alt="drawing"/>
