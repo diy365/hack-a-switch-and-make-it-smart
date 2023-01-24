@@ -14,7 +14,7 @@ The `R1` value depends on the GPIO voltage. Please refer to the following table 
 
 |GPIO|R1|Notes|
 |-|-|-|
-|3.3V|270Ω|Like in ESP8266 or ESP32.|
-|5V|470Ω|Like in Arduino.|
+|3.3V|2.3kΩ|Like in ESP8266 or ESP32.|
+|5V|4.7kΩ|Like in Arduino.|
 ## To Do
 _No improvements scheduled at the moment._
