@@ -8,7 +8,7 @@ Use just a common NPN transistor, like the 2N2222, to hack the switch and make i
 
 When the `GPIO` value is `HIGH`, the current flowing from B(base) to E(emitter) saturates the transistor, so the circuit on the C(collector) is connected to GND. In this case the transistor acts like the physical switch.
 
-<img src="res/hack-switch-img2.png" alt="drawing"/>
+<img src="res/hack-switch-img2.1.png" alt="drawing"/>
 
 The `R1` value depends on the GPIO voltage. Please refer to the following table for the most common scenarios.
 |-------|--|-----|
