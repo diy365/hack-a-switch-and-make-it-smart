@@ -12,10 +12,9 @@ When the `GPIO` value is `HIGH`, the current flowing from B(base) to E(emitter) 
 
 The `R1` value depends on the GPIO voltage. Please refer to the following table for the most common scenarios.
 
-
-|GPIO(V)|R1|Notes|
+|GPIO|R1|Notes|
 |-|-|-|
-|3.3V|270|Like in ESP8266 or ESP32.|
+|3.3V|270Ω|Like in ESP8266 or ESP32.|
 |5V||Like in Arduino.|
 ## To Do
 _No improvements scheduled at the moment._
